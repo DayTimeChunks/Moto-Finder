@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_45ccbbd2fe245345bc1c0723d90c8840a6318f8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.0.1_9d10a22a7e4354243d5ee28f55fdab226919a32c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_e4657d3a2d1ff204398bc37ee1f0c98998afdbd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_6713867d8429af7ded5d4364d1eaf8e430706e5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9528763fcf070371fbe2af9a3153fa2387029169">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d1bd7639930822eada38866a158b3482bf25b5e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.1_afcbf8f48725b6d96d37683de3c28398356f9a64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_f81d4c051ba1b4dcf9d5223f8022f9966474d403/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.1_89a6e68d974203576ad5c56d9fe02405c2859f13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_657e1bef7a17afb3c2aed485f49ba7b92ef172bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.1_09f4a60060842e8dc42dfd5bcd94059db8a402f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.1_2223b17ba1e6ca3f52aca5d12b24d16502bc9110/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_d8bcf2ec020af6b2f6fbc1d0909d19c6f0ae5c50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.0.1_f80e4822699c7dc8fbc47aa9e704c1b9da82c673/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_d6708f58857cb96643cbbc02e707fbbdeac2d06b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.0.1_e5d170295a41587ca68cf858ef30bb67821defd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_87e3eb6af76c1df4bde6879b4bdec3c4524f4965/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_2cecdab4267b9c5e7876c82580bda615ca90a109/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_7d94a7977738587301becdf5e1c7337b8236cf55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_f31e296b1e3fc15fb403cc95eb1fed34ab1fdd11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="215b5b1a194a29a2602f3597fb331bd961c5c568">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_eb4d6d74d41a77f8649a514a6632961a4c3dc14f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.0.1_160d4d0cb89acf408b05be47ecaa0cc8b59b12e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.0.1_1e57f5e98b941329ce44699f9a1c7dc189d52727/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.0.1_de3c8c3875ba4cb0eaeaa8268cdaffc85c9dedee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.0.1_eda095023863b84af3eb5446a11c367bb69a47a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_d051b92dae955e7df0cd2402a5e5b3524b8222fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_a0676f3929b451fde57b923092b2357cc431cf15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.0.1_026ddfe4e31d0e5483b6f56bc95e2d877136a0f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.0.1_3176d9d8c8aa96eecb072af20b9548d11c71860b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_b023070e413cad1055cddf997a3973e75b7dd01f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_98e226f1f6843b38666a0536d40d489a0fb22ab8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_2345f3ed51b5c5aba39d20982f0fe95bbe66a3cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_5d4caaac640c2c220cac74d82a9f6f0d0bb4dba5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_fb6970c91ff0fc5a6b076c4b9003b19c23119d3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.1_8ac18748e977938d92274b5de0678e8d174c1da3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.0.1_cbb7ebb68c1da9f79e317896e48cd3c491c92e97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="da6feddc6c2898c5ced793bfa051a1fb5e9c945f">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5f3a2e503fbf62932dad3e3736cf2995b8615b24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.1_916f1a2b6197e3f5fba3ad25115164d6150679de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.0.1_e8a83a1aab8f5cd21eaccdbd13e7f1b472b00d5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.0.1_8e5747e089719628a3e1f7db022b8ded704fbbcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_3eb6e8daa544f990aa6a4e49be105af0395a2843/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.0.1_c13fa5bc719bd08ac09210a997fb636540d4461c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_549989e2f819f4ed7ac74ea726a2c3f5549e82ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.1_10da48d2bc3d6b6bc666b05e6a64484bf6440f20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_b8c3778ef48f266ba51e85a565f66d9679336c07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_0d3dc26c580e764f43efce0199c9beb2bab3acbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_9e9fad2c00d6974de14c3545d3a054ddb474817e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_0e2e76f84b0ae3806185af4d158893bac0d81926/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.0.1_ff00b7b46efeca87885f4019b44cc4ba650fd93f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_da442a53843a8cdb1922cf3c1936048b3a3e3051/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_71bbf4fd23b254a5510611e248c124aa03f97baa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_d5648add86e66b32c3e3bd05e54d3e2c3e735088/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_299301fe7ca6a28a81000be525e28b15869ffda3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_2746f3c194391c72b7bd1147d7f53fbe51db4bc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.1_f2ac4f34cb7dd6a86c92148635460249ac7cdb19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_e23712986689f3cf10937dea19d8c674e6cc1fc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_1447b3e9db61fca354dc75cb0933d0bf659b63a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_2890da70cf990dc956aa01638146836e165f5733/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_a2fbc13f1cb9e9c61d64c8b460b41bd9b16fc9de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.0.1_e3a9d1baf1dc38f6b2dd8bfdf00b27b73ccdab79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.0.1_1ce13bf049169ee2a45d5558fa364f9a7a91fe69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-1.3.0_0b93cf899ea03e15d3fcb80551e9a05c0ca2996d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.1_286a603d94f3da7fa66b1dc36fa3a37e1f9d5bd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_1341f88641832cb4270d1bcdfc7346055000706b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.0.1_15897852d35c2c70b2493e4ea40cedfeefcb4b4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_4a64347972806158f099bde67c5c7db847742082/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.1_41a234dbef3327e8e968ac579beed2a1938be40b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_1aad32a61e4bc38fdda9babf08761fcfc19d1ba3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bac2a7b8fd1ad9d97daec7c48aad726f62dddf2c">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e43494f0bdb488359086ab69f3ce8de1c8d00b2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.0.1_c238dfb0e1ba07720fc1f5f40bd15df800bc57eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_ca0aabdf03e092eda6832e6b13dc799dfcdb6b74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_d2aad4e0eb0f3317d42b4f76736287891d1524a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b05221f046c0aeac0998f43065a594d17d0f0abc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_02dec41a954736c27a99f4517e23808b349745b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_c61d8600be6b0b406081ce27741b288f6958c552/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_497b3eb023a0e5fe1a67b78124a1c942f111be98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_6f3385b4236bd6984b80be446aa420362e496d68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.0.1_9f508efe1d4ed1cda496a8caa2ffc074bd0ee2ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_42777d0c228a7b342df70f5d2abf4f328592f97b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_1d8f98151719ef51cb110aafd0b934a4cca8ab9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_622a6285dd67fb86229b37b00274709507f7ff1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_35d05639e9c6828672f133ff6f67ca1b866fc4a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_030c3488627b749de29f44dcc233c86cd3fc507a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_dbd3808d77b9df501ea40607142c00b5ad853285/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_b53c5b4338af93c3875dd0a9acc16c124a166eb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.0.1_e86f663b07d97f74e2d30e3b12813c2e0124f098/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_cf5d240e3ca0ab4d939e12663feed9184626dfce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_d9f1086a03106e80f1f4beb7a07444264a313959/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_5eb41f84619edd88f9e248d8e0cf83b69e0e8cef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_4f72e3735516d6263dfddd2d1f8337db44df6a80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_872627dbade6cd2eb8ed6f1587b7644cbf747ee2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_d00ff733a88ac619461392f4283da9a352c28ffb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.0.1_aa6f03e7bd6c0227fc6370836daf9630b499156b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_5ead1ca8cb98e471144a19ed3cbc1d8b018fab1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_de65a3181fa4df6ac72cf81d7870ca4a93af022e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.0.1_80b9a2528d66941358ca2fd9c127a7e68df99423/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.0_415bb4bf110d5edb4f54ffde169ec5f875ba5b47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.0.1_e67d509253ecddac6fba55d2fb8e342013a18607/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.1_09557fbd80fef4a80939492646d9d1e5d531e17c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_0e8ac3cd80c9aa3e83246f836727b94705ac4aa2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_89c45bdc2b0b6c00e4564992e1fbde490fa7a24f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_674f8bd6680d7c666f5f272d63827ec7c9ebf5a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_0f763cc163e2aebea7503557bc2bdebcd6ed4aeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_f39bb5e035a870f9ebd3778221bc4c5f7de0dc61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_a81d3bdbbb6745b7490a38409e58910ac9c39091/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_4ae32cbfb2552cb6f0d321f58ac28ab80e096fea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_2bf3634c5b48f91521242f62dab00e8aed1032c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_1cd75f0c02f197b5a11a6d04ca3506a4a3310143/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.0.1_354a0279ad1aa6b62eb86c80d9157031acd66693/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-1.3.0_471dc1412f9057cb55a3c5f095be7ffb0d0904d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_0844bb6d1ebfa9ded9f6972f9f3722f9518a12e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_d8c17fa5dbc2b3cb9f358d61aa47fa2d7fc2faad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_5f1b4fd5f3996878bddebe998c4a964e907030ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_3078256ec571584472236883d724bf11053adb7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_ab72d4c6bad74b76f9a0f578e0be58f93df50dba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_c686fcd6e213b135344894691827a62e012043d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.1_9091e7bcd2ead77424c07bc6137002422ec9a9a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_963d4f30f109951a7edb8708f9bc1521a04180ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.1_bb1e873ad502819ab68478dcdd47bd32fb5cfa4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_a31224756ac1f8a90941dcc47ec517f8c6992a90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.0.1_0d250935a86305b0e877b53f4aadd3f2898a74f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.0.1_06d7f4099bb2f47cf1995983fbc827d5c49f504a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.1_ef8187dd15214d6560e4f046f80ec1d10f717f38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.0.1_54e438c7812996e1457dd8a72a33425841c35704/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.0.1_827e966f7281292cdc0f6a3f10a1fc09535d4265/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_b387916714b9f57054c30767649fb63f2cd83d68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.0.1_5aad3bb85ef7e1694c23ffeb86781710e858f301/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_9eb5794774808db0bc094a00cd6294c097f8c399/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_7dac2876ac7ebcc98ed31d35870f7e1f81d553a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.1_9ad530c13e3ab7b6fd7d4bc1e96186b7d02f0c52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_6cce6bbea61044a4ca4cc0757605eccfd0da083e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_eeb12afc8f5abf1950865571e1500a17007290ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.1_5148d892ec94fdac5f110b42a16da5dc1f232e95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_09784ed19f917a285912d23a17bc4e0a6b8e1125/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.0.1_503fe3bc9f9ab16e6457d841aa93ab2d27ed20e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.0.1_e9f07e8c519dd777aacee03f3ecdf36c38acf133/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_a1e5eb40ac8209d36818f0a371728168914e23e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_d65183658964482bb46f3c8391c65c7395d80974/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.0.1_db30c057951bef7edc7a4b389ec145446565dfcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder01/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.1_64c869e102d7d3564b653d40d20eade6537bf121/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/DayTightChunks/Documents/eCourses/AndroidStudioProjects/ScootFinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.1_fc66a70222c6b120a85d2975ce384afded58d4e5/classes.dex" />
+    </item>
+
+</items>
